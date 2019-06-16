@@ -1,0 +1,22 @@
+- DONE resume info -> json
+- DONE set up jquery, file directory
+- DONE json to html
+    - DONE header (name, email, etc.)
+    - DONE experience
+    - DONE projects
+    - DONE education
+    - DONE tech skill
+    - DONE soft skill
+- DONE font
+    - Base: Circular Std
+    - Sections, Institution, Title, Entire Techskills, Softskills: Montserrat
+    - Date, contact info: Consolas
+- DONE stylize (css bootstrap?)
+    - DONE header (name, email, etc.)
+    - DONE experience
+    - DONE projects
+    - DONE education
+    - DONE tech skill
+    - DONE soft skill
+- DONE BONUS img
+    - DONE add co-op header as png

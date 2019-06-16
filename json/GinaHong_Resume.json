@@ -1,0 +1,92 @@
+{
+    "coop": "/images/coop_header.png",
+    "info": {
+        "name": "Gina Hong",
+        "website": "ginahong.com",
+        "email": "1ginahong@gmail.com",
+        "phone": "+1 604-300-5568"
+    },
+    "experience": [
+        {
+            "company": "UBC",
+            "position": "Computer Science Teaching Assistant",
+            "fromdate": "SEPT 2017",
+            "description": "I guided students through weekly labs in CPSC110, where students get hands-on experience on introductory computer science topics. As a CPSC304 TA, I am now resonsible for helping students with techincal issues involving ORacle/MySQL or teaching concepts in database design."
+        },
+        {
+            "company": "Learningbranch",
+            "position": "Research Assistant",
+            "fromdate": "MAY 2018",
+            "todate": "JAN 2019",
+            "description": "I worked with a computational linguist in testing features like automated assessment and speech recognition (Python + React.js). Additionally, I analyzed survey data from corporate clients and industry trainers using Python and R."
+        },
+        {
+            "company": "Launchpad",
+            "position": "iOS team UX designer",
+            "fromdate": "SEPT 2017",
+            "todate": "MAY 2018",
+            "description": "As the iOS team UX designer, I pitched potential application ideas, conducted user interviews, and completed compettior analysis. Additioanlly, I created prototypes using programs like Figma, Sketch, and Adobe XD."
+        }
+    ],
+    "projects": [
+        {
+            "project_for": "NWHacks",
+            "title": "Kyp's Journey Home",
+            "fromdate": "JAN 2019",
+            "description": "An interactive story that follows baby alien Kyp, as he finds his way back home. Built w/ react.js & HTML. Assets were drawn in Illustrator & a mock-up was created in Sketch."
+        },
+        {
+            "project_for": "CPSC304",
+            "title": "DBMart: A Simple Marketplace",
+            "fromdate": "OCT 2018",
+            "todate": "NOV 2018",
+            "description": "DBMart is a web app that emulates online buy and sell pages. We devised and implemented a database schema that had posts, users, tags, and advertisements. The app was built w/ Node.js and MySQL. I mainly worked on tags/advert queries while managing the team. (writing documentation to help with git, assigning tasks, bug fixes)"
+        }
+    ],
+    "education": {
+        "institution": "UBC",
+        "degree": "BA Cognitive Systems",
+        "fromdate": "SEPT 2015",
+        "todate": "APR 2020",
+        "achievement": [
+            { "description": "Outstanding International Student Award" },
+            { "description": "2017W Dean's List"}
+        ]
+    },
+    "techskills": [
+        {
+            "type": "Languages",
+            "list": [
+                { "name": "Java" },
+                { "name": "JavaScript"},
+                { "name": "Python"}
+            ]
+        },
+        {
+            "type": "Design",
+            "list": [
+                { "name": "Sketch" },
+                { "name": "Adobe Illustrator" },
+                { "name": "Adobe XD" },
+                { "name": "Figma" }
+            ]
+        },
+        {
+            "type": "Technology",
+            "list": [
+                { "name": "Git" },
+                { "name": "SQL" },
+                { "name": "HTML" },
+                { "name": "CSS" },
+                { "name": "Node.js" },
+                { "name": "React.js" }
+            ]
+        }
+    ],
+    "softskills": [
+        { "desc": "Research skills developed from writing academic papers and completing competitor analysis." },
+        { "desc": "Experience with academic typesetting such as LaTeX." },
+        { "desc": "Strong design sense and understanding of the processes and iterations involved in development." },
+        { "desc": "Strong communication skills from working in teams." }
+    ]
+}
