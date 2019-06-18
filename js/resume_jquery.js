@@ -1,5 +1,5 @@
 $.ajax({
-    url: '/json/GinaHong_Resume.json',
+    url: '/json/Dummy_Resume.json',
     dataType: 'json',
     type: 'get',
     cache: false,
